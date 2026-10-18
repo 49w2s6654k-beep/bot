@@ -19,7 +19,7 @@ mensagem_fixa = """
 🎯 Acción: COMPRAR AHORA
 
 🔗 Enlace del juego:
-[Inserta el enlace aquí]
+https://gbaodm2hp.com/3fDn?p=%2Fcasino%2F
 
 🔄 Estrategia de Recuperación (Gale):
 Si esta entrada no se da a la primera, mantén la calma.
