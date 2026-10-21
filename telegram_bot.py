@@ -57,4 +57,4 @@ while True:
         print("Erro:", erro)
 
     # 240 segundos = 4 minutos
-    time.sleep(240)
+    time.sleep(600)
