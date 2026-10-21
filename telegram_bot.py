@@ -19,7 +19,7 @@ mensagem_fixa = """
 🎯 Acción: COMPRAR AHORA
 
 🔗 Enlace del juego:
-https://sl1nk.com/zrbXQgn
+JUEGUE SIN KYC https://gbaodm2hp.com/3fDn
 
 🔄 Estrategia de Recuperación (Gale):
 Si esta entrada no se da a la primera, mantén la calma.
